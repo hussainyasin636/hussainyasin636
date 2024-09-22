@@ -1,16 +1,4 @@
 ## Hi there I am hussain Yasin 👋
-
-<!--A pasionate software Engineer and Developer
-**hussainyasin636/hussainyasin636** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning c++...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...hussainyasin636@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...just work
--->
+I am Currently learningc c++
+A passionate developer (in future)
+fun fact : just work
